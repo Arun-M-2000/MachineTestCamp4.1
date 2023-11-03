@@ -1,0 +1,11 @@
+Create an interface called IPayable.
+This is the interface that will be used by the ATM software 
+The IPayable interface should contain three functions:
+1.Deposit amount 
+2.Withdraw amount
+3.check balance. 
+A class Employee should implement the IPayable interface.  
+The implementation of the functions should make sense.
+Get the choice from the user.
+Retrieve the account details  into a suitable collection
+Handle all exceptions at runtime. 
