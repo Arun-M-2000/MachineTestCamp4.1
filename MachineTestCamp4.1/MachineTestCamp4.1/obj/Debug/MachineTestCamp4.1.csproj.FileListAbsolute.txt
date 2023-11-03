@@ -1,0 +1,7 @@
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\obj\Debug\MachineTestCamp4.1.csproj.AssemblyReference.cache
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\obj\Debug\MachineTestCamp4.1.csproj.CoreCompileInputs.cache
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\bin\Debug\MachineTestCamp4.1.exe.config
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\bin\Debug\MachineTestCamp4.1.exe
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\bin\Debug\MachineTestCamp4.1.pdb
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\obj\Debug\MachineTestCamp4.1.exe
+E:\Arun\Study\DOT_NET\C#\C#Assignment\MachineTestCamp4.1\MachineTestCamp4.1\obj\Debug\MachineTestCamp4.1.pdb
